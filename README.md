@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d02b81736a7e9519c6386.jpg">
+  <img src="https://files.catbox.moe/7uq1g4.jpg">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚🔥">
 
 <p align="center">
-  <img src="https://telegra.ph/file/925eade709484516c5fe3.jpg">
+  <img src="https://files.catbox.moe/q9shgz.jpg">
 </p>
 
 <h3 align="center">
