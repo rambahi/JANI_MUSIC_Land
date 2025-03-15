@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「⛦🦋 𝗝𝗮𝗻𝗶 ❤️‍🔥 ✘ 𝗠𝘂𝘀𝗶𝗰 🥀 🦋⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/7uq1g4.jpg">
+  <img src="https://files.catbox.moe/yd51bx.jpg">
 </p>
 
 <p align="center">
@@ -21,18 +21,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚🔥">
 
 <p align="center">
-  <img src="https://files.catbox.moe/q9shgz.jpg">
+  <img src="https://files.catbox.moe/yd51bx.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/ISTKHAR_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ramavtarchauhan420/JANI_MUSIC_REPO"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹𝐈sᴛᴋʜᴀʀ ꭙ 𝐂ʀᴇᴡ ꭙ 𝐌ᴜꜱɪᴄ™ ˹ʙꜱ](https://t.me/CrewMusic_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹Jani ꭙ 𝐌ᴜꜱɪᴄ™ ](https://t.me/Jani_Music_Robot)**
 
 
 
@@ -98,11 +98,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/THUNDER_SUPPORT_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+FQF7rz0qM1MxMTk1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/THUNDERDEVS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Jani_RP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR) ғᴏʀ [ɪsᴛᴋʜᴀʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/THUNDERDEVS)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR) ғᴏʀ [ɪsᴛᴋʜᴀʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Jani_RP)_</b>
