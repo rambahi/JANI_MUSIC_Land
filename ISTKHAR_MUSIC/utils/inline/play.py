@@ -51,7 +51,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
     elif 80 <= umm < 95:
         bar = "————————❥—"
     else:
-        bar = "—————————❥"
+        bar = ". ️. ⎯᪵⎯꯭᪳🕊️⃪꯭ͯ♥️꯭𝗝 ꯭𝛂꯭ ꯭𝛂֟፝ ꯭𝛈꯭ 𝛎 ꯭ɪ꯭༑ࠫࠫ‌‌꯭‌༑‌‌꯭𝅥‌꯭𝆬‌‌ٖٖٖٖٖٖٜٖٖ"
     buttons = [
          [
             InlineKeyboardButton(
@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/ll_ISTKHAR_BABY_lll"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+pnDJxCG5VVphMTVl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/ll_ISTKHAR_BABY_lll"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+pnDJxCG5VVphMTVl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING8"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/THUNDER_SUPPORT_ll"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
             ),
         ],
 
@@ -279,7 +279,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
     elif 50 <= umm < 70:
         bar = "———————◉———"
     else:
-        bar = "——————————◉"
+        bar = ". ️. ⎯᪵⎯꯭᪳🕊️⃪꯭ͯ♥️꯭𝗝 ꯭𝛂꯭ ꯭𝛂֟፝ ꯭𝛈꯭ 𝛎 ꯭ɪ꯭༑ࠫࠫ‌‌꯭‌༑‌‌꯭𝅥‌꯭𝆬‌‌ٖٖٖٖٖٖٜٖٖ"
 
     buttons = [
         [
@@ -474,7 +474,7 @@ def panel_markup_4(_, vidid, chat_id, played, dur):
     elif 50 <= umm < 70:
         bar = "———————◉———"
     else:
-        bar = "——————————◉"
+        bar = ". ️. ⎯᪵⎯꯭᪳🕊️⃪꯭ͯ♥️꯭𝗝 ꯭𝛂꯭ ꯭𝛂֟፝ ꯭𝛈꯭ 𝛎 ꯭ɪ꯭༑ࠫࠫ‌‌꯭‌༑‌‌꯭𝅥‌꯭𝆬‌‌ٖٖٖٖٖٖٜٖٖ"
 
     buttons = [
         [
