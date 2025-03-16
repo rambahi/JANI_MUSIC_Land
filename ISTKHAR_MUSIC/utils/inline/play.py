@@ -33,23 +33,23 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "❥—————————"
+        bar = "🌹—————————"
     elif 10 < umm < 20:
-        bar = "—❥————————"
+        bar = "—🌹————————"
     elif 20 <= umm < 30:
-        bar = "——❥———————"
+        bar = "——🌹———————"
     elif 30 <= umm < 40:
-        bar = "———❥——————"
+        bar = "———🌹——————"
     elif 40 <= umm < 50:
-        bar = "————❥—————"
+        bar = "————🌹—————"
     elif 50 <= umm < 60:
-        bar = "—————❥————"
+        bar = "—————🌹————"
     elif 60 <= umm < 70:
-        bar = "——————❥———"
+        bar = "——————🌹———"
     elif 70 <= umm < 80:
-        bar = "———————❥——"
+        bar = "———————🌹——"
     elif 80 <= umm < 95:
-        bar = "————————❥—"
+        bar = "————————🌹—"
     else:
         bar = ". ️. ⎯᪵⎯꯭᪳🕊️⃪꯭ͯ♥️꯭𝗝 ꯭𝛂꯭ ꯭𝛂֟፝ ꯭𝛈꯭ 𝛎 ꯭ɪ꯭༑ࠫࠫ‌‌꯭‌༑‌‌꯭𝅥‌꯭𝆬‌‌ٖٖٖٖٖٖٜٖٖ"
     buttons = [
@@ -71,7 +71,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -248,7 +248,7 @@ def stream_markup2(_, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+cB_HhbbTtH0yNmRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
             ),
         ],
 
