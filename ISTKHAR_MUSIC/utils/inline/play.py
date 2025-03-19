@@ -71,7 +71,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -248,7 +248,7 @@ def stream_markup2(_, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
 
