@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Janvi_yash_bestfriend"
+                text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
             ),
         ],
 
