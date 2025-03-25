@@ -33,25 +33,25 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "❥︎—————————"
+        bar = "✄·─·─·─·─·─·"
     elif 10 < umm < 20:
-        bar = "—❥︎————————"
+        bar = "-ˋˏ✄·─·─·─·─·"
     elif 20 <= umm < 30:
-        bar = "——❥︎———————"
+        bar = "-ˋˏ-ˋˏ✄·─·─·─·"
     elif 30 <= umm < 40:
-        bar = "———❥︎——————"
+        bar = "-ˋˏ-ˋˏ-ˋˏ✄·─·─·─"
     elif 40 <= umm < 50:
-        bar = "————❥︎—————"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─·"
     elif 50 <= umm < 60:
-        bar = "—————❥︎————"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─"
     elif 60 <= umm < 70:
-        bar = "——————❥︎———"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·"
     elif 70 <= umm < 80:
-        bar = "———————❥︎——"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─"
     elif 80 <= umm < 95:
-        bar = "————————❥︎—"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·"
     else:
-        bar = "𝗝𝗮𝗻𝗶 ♪ 𝗠𝘂𝘀𝗶𝗰"
+        bar = "-ˋˏˋˏ-𝗝𝗮𝗻𝗶♪𝗠𝘂𝘀𝗶𝗰ˋˏ-ˋˋˏ-"
     buttons = [
          [
             InlineKeyboardButton(
@@ -71,7 +71,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
+                text="𝗨𝗽𝗱𝗲𝘁𝗲", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
+                text="𝗨𝗽𝗱𝗲𝘁𝗲", url=f"https://t.me/Jani_RP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -248,7 +248,7 @@ def stream_markup2(_, chat_id):
                 text="𝗢𝘄𝗻𝗲𝗿", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁", url=f"https://t.me/Jani_Chating"
+                text="𝗨𝗽𝗱𝗲𝘁𝗲", url=f"https://t.me/Jani_RP"
             ),
         ],
 
