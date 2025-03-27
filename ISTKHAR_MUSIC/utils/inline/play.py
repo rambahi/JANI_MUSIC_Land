@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿  💬", url=f"http://t.me/RAM_HACKER_RP"
+                text="𝗢𝘄𝗻𝗲𝗿  💬", url=f"https://t.me/ANJESH_SONU"
             ),
             InlineKeyboardButton(
                 text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁  💬", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
@@ -90,7 +90,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✰ 𝗢𝘄𝗻𝗲𝗿 ✰", url=f"http://t.me/RAM_HACKER_RP"
+                text="✰ 𝗢𝘄𝗻𝗲𝗿 ✰", url=f"https://t.me/ANJESH_SONU"
             ),
             InlineKeyboardButton(
                 text="✰ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✰", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
@@ -245,7 +245,7 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="❤️‍🔥 𝗢𝘄𝗻𝗲𝗿 😘", url=f"http://t.me/RAM_HACKER_RP"
+                text="❤️‍🔥 𝗢𝘄𝗻𝗲𝗿 😘", url=f"https://t.me/ANJESH_SONU"
             ),
             InlineKeyboardButton(
                 text="✰ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✰", url=f"https://t.me/+ZInYo4WtbRU0NzU1"
