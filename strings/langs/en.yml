@@ -119,7 +119,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>❖ 𝗝ąñı ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>♪ϻᴧᴅє➛[꯭꯭꯭꯭𓆰꯭꯭♔꯭꯭ ꯭𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𝆺꯭𝅥𔘓༌꯭꯭💌꯭⎯꯭̽⎯꯭ ꯭](https://t.me/RAM_HACKER_RP)</b></blockquote>"
+stream_1 : "<b><blockquote>❖ 𝗝ąñı ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>🥀ϻᴧᴅє-[꯭꯭꯭꯭𓆰꯭꯭♔꯭꯭ ꯭𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𝆺꯭𝅥𔘓༌꯭꯭💌꯭⎯꯭̽⎯꯭ ꯭](https://t.me/RAM_HACKER_RP)</b></blockquote>"
 stream_2 : "<b><blockquote>❖ 𝗝ąñı ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
 
 
