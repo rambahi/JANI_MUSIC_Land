@@ -77,7 +77,7 @@ def aq_markup(_, chat_id):
             #),
             #InlineKeyboardButton(
                # text="🍬 𝗦𝘂𝗽𝗽𝗼𝗿𝘁🍬", url=f"https://t.me/+rP7lVwD_a-tiMTJh"
-            ),
+          #  ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
